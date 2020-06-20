@@ -1,0 +1,162 @@
+<template>
+  <!-- 登录 -->
+  <div>
+    <div class="sigon">
+      <div>
+        <i class="iconfont icon-zuojiantou-tianchong"></i>
+      </div>
+      <div class="sigon1">
+        <div class="sigon-item">登录&nbsp;/&nbsp;注册</div>
+        <div class="sigon4">
+          <!-- 输入任意文本 -->
+          <van-field v-model="text" placeholder="USERNAME" />
+          <!-- 输入手机号，调起手机号键盘 -->
+          <van-field v-model="tel" type="password" placeholder="PASSWORD"  />
+          <!-- 允许输入正整数，调起纯数字键盘 -->
+          <van-field v-model="digit" type="digit" label="手机号码" />
+          <!-- 允许输入数字，调起带符号的纯数字键盘 -->
+          <van-field v-model="sms" center clearable label="短信验证码" placeholder="请输入短信验证码">
+            <template #button>
+              <van-button size="small" type="primary">发送验证码</van-button>
+            </template>
+          </van-field>
+          <!-- 输入密码 -->
+          <van-field v-model="password"  label="验证码" />
+        </div>
+        <div class="d-f sigon-item1">
+        <van-button type="primary">主要按钮</van-button>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "",
+  props: {},
+  data() {
+    return {
+      tel: "",
+      text: "",
+      digit: "",
+      number: "",
+      password: "",
+      ruleForm: {
+        uesrname: "",
+        password: "",
+        verification: ""
+      },
+      rules: {
+        uesrname: [
+          {
+            required: true,
+            message: "用户名不能为空",
+            trigger: "blur"
+          },
+          {
+            min: 2,
+            max: 10,
+            message: "用户名在2-10位之间",
+            trigger: "blur"
+          }
+        ],
+        password: [
+          {
+            required: true,
+            message: "密码不能为空",
+            trigger: "blur"
+          },
+          {
+            min: 6,
+            max: 15,
+            message: "密码在6-10位之间",
+            trigger: "blur"
+          }
+        ],
+        verification: [
+          {
+            required: true,
+            message: "验证码不能为空",
+            trigger: "blur"
+          }
+        ]
+      },
+      code: ""
+    };
+  },
+  components: {},
+  methods: {
+    // loginc() {
+    //   axios
+    //     .get("/api/captcha")
+    //     .then(res => {
+    //       this.code = res.data;
+    //     })
+    //     .catch(err => {
+    //       console.log(err);
+    //     });
+    // },
+    // logina() {
+    //   axios
+    //     .post("/api/user/login", {
+    //       username: this.ruleForm.uesrname,
+    //       password: this.ruleForm.password,
+    //       code: this.ruleForm.verification
+    //     })
+    //     .then(res => {
+    //       if (res.data.code === 200) {
+    //         this.$message.success("登录成功");
+    //         this.$router.push("/");
+    //         localStorage.setItem('user',JSON.stringify(res.data.data[0]))
+    //       } else {
+    //         this.$message.error(res.data.message);
+    //       }
+    //     })
+    //     .catch(err => {
+    //       console.log(err);
+    //     });
+    // }
+  },
+  mounted() {
+    // this.loginc();
+  },
+  watch: {},
+  computed: {}
+};
+</script>
+
+<style scoped lang='scss'>
+.sigon {
+  background: url("./cd5ecfe18f9bbeff4f4e23168eef21c6.jpg");
+  width: 100%;
+  height: 665px;
+}
+.sigon1 {
+  width: 350px;
+  height: 400px;
+  background: white;
+  margin-left: 13px;
+  margin-top: 50px;
+}
+.sigon2 {
+  margin-left: -80px;
+}
+.sigon4 {
+  width: 320px;
+  border: none;
+}
+.icon-zuojiantou-tianchong {
+  font-size: 34px;
+
+  margin-left: 10px;
+}
+.sigon-item {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.sigon-item1{
+  z-index: 999999;
+}
+</style>
