@@ -40,7 +40,7 @@
    props:{
       msg:{
             type:Array,
-            default:() => {}
+            default:() => []
         }
     },
    data () {
@@ -73,7 +73,6 @@
      }).catch(err=>{
          console.log(err);
      })
-
    },
    watch: {
 

@@ -38,10 +38,9 @@
  export default {
    name:'',
    props:{
-      msg:{
-            type:Array,
-            default:() => {}
-        }
+     msg:{
+        type:''  
+     }
     },
    data () {
      return {
@@ -73,7 +72,6 @@
      }).catch(err=>{
          console.log(err);
      })
-
    },
    watch: {
 

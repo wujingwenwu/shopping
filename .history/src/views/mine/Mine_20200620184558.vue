@@ -39,7 +39,7 @@
     <van-cell title="地址管理" is-link  icon="cash-back-record" to="index"/>
     
     <van-cell title="最近游览" is-link  icon="gift-o" to="index"/>
- 
+ <setup :msg="msg"></setup>
   </div>
 </template>
 
@@ -50,12 +50,12 @@ export default {
   data() {
     return {
       userInf: {},
-     
+      msg:{}
      
     };
   },
   components: {
-   
+    Setup
   },
   methods: {
     click() {
