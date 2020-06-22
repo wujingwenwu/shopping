@@ -64,12 +64,12 @@ export default {
        this.$api.getAddress().then(res=>{
            this.list = res.address,
             this.$store.commit("setName",res.address.name)
-            this.$store.commit("setTel",res.address.tel)
+            this.$store.commit("setTel",res.tel)
              this.$store.commit("setCounty",res.county)
-            this.$store.commit("setCity",res.address.city)
-            this.$store.commit("setAreaCode",res.address.areaCode)
-            this.$store.commit("setAddressDetail",res.address.addressDetail)
-            this.$store.commit("setAddress",res.address.address)
+            this.$store.commit("setCity",res.city)
+            this.$store.commit("setAreaCode",res.areaCode)
+            this.$store.commit("setAddressDetail",res.addressDetail)
+            this.$store.commit("setAddress",res.address)
             console.log(res);
         }).catch(err=>{
             console.log(err);

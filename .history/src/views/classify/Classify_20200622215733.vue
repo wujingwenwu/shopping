@@ -1,7 +1,5 @@
 <template>
  <div>
- <div class="classify m-t-10">商品分类</div>
-
   <div>
   <van-tabs>
   <van-tab title="标签 1">内容 1</van-tab>
@@ -38,9 +36,7 @@
 
    },
    methods: {
-      classify(){
-        this.$router.push('/')
-      }
+
    },
    mounted() {
 
@@ -55,8 +51,5 @@
 </script>
 
 <style scoped lang='scss'>
-.classify{
-  margin-left: 150px;
-  font-size: 18px;
-}
+
 </style>

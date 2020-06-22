@@ -69,7 +69,7 @@ import area from '../../../server/可能要用的js文件/area'
     onDelete() {
       Toast('delete');
     },
-    
+    this.address.name = content.name 
    },
    mounted() {
       

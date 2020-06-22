@@ -53,7 +53,7 @@
    },
    methods: {
     details(){
-      this.$router.push('/details')
+      this.$youter.push('/details')
     }
    },
    mounted() {

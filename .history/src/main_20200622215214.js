@@ -25,9 +25,6 @@ import { AddressEdit } from 'vant';
 import { Area } from 'vant';
 import { AddressList } from 'vant';
 import { Tab, Tabs } from 'vant';
-import { TreeSelect } from 'vant';
-
-Vue.use(TreeSelect);
 
 Vue.use(Tab);
 Vue.use(Tabs);

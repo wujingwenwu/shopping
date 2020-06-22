@@ -1,7 +1,11 @@
 <template>
  <div>
- <div class="classify m-t-10">商品分类</div>
-
+ <div class="d-f m-t-10">
+ <div @click="classify">
+ <van-icon name="arrow-left" color="#1989fa" size="30px"/>
+ </div>
+ <div class="classify">商品分类</div>
+ </div>
   <div>
   <van-tabs>
   <van-tab title="标签 1">内容 1</van-tab>
@@ -56,7 +60,7 @@
 
 <style scoped lang='scss'>
 .classify{
-  margin-left: 150px;
+  margin-left: 120px;
   font-size: 18px;
 }
 </style>

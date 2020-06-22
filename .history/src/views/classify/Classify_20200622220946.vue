@@ -56,7 +56,7 @@
 
 <style scoped lang='scss'>
 .classify{
-  margin-left: 150px;
+  margin-left: 120px;
   font-size: 18px;
 }
 </style>

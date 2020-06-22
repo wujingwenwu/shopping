@@ -72,7 +72,7 @@ import area from '../../../server/可能要用的js文件/area'
     
    },
    mounted() {
-      
+      this.address.name = content.name 
    },
    watch: {
 

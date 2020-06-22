@@ -30,22 +30,6 @@ Vue.use(VueRouter)
             title: '我的'
           }
         },
-        {
-          path: '/toshopping',
-          name: 'Toshopping',
-          component: () => import('../views/Shopping/Toshopping'),
-          meta: {
-            title: '购物车'
-          }
-        },
-        {
-          path: '/classify',
-          name: 'Classify',
-          component: () => import('../views/classify/Classify'),
-          meta: {
-            title: '分类'
-          }
-        },
       ]
     },
     {
@@ -88,7 +72,14 @@ Vue.use(VueRouter)
         title: '编辑个人资料'
       }
     },
-  
+    {
+      path: '/Shopping',
+      name: 'Shoppings',
+      component: () => import('../views/Shopping/Shoppings'),
+      meta: {
+        title: '购物车'
+      }
+    },
     {
       path: '/mine',
       name: 'Mine',
@@ -97,13 +88,20 @@ Vue.use(VueRouter)
         title: '我的'
       }
     },
-    
+    {
+      path: '/classify',
+      name: 'Classify',
+      component: () => import('../views/classify/Classify'),
+      meta: {
+        title: '分类'
+      }
+    },
     {
       path: '/Details',
       name: 'Details',
       component: () => import('../views/Details/Details'),
       meta: {
-        title: '详情页'
+        title: '分类'
       }
     },
    

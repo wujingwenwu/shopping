@@ -1,9 +1,7 @@
 <template>
  <div>
- <div class="classify m-t-10">商品分类</div>
-
   <div>
-  <van-tabs>
+  <van-tabs v-model="active">
   <van-tab title="标签 1">内容 1</van-tab>
   <van-tab title="标签 2">内容 2</van-tab>
   <van-tab title="标签 3">内容 3</van-tab>
@@ -11,8 +9,8 @@
 </van-tabs>
   </div>
   <div>
- <van-tree-select
- 
+  <van-tree-select
+  :items="items"
   :active-id.sync="activeId"
   :main-active-index.sync="activeIndex"
 />
@@ -28,19 +26,14 @@
     },
    data () {
      return {
-      
-        
-      activeId: 1,
-      activeIndex: 0,
+      active: 2,
    }
    },
    components: {
 
    },
    methods: {
-      classify(){
-        this.$router.push('/')
-      }
+
    },
    mounted() {
 
@@ -55,8 +48,5 @@
 </script>
 
 <style scoped lang='scss'>
-.classify{
-  margin-left: 150px;
-  font-size: 18px;
-}
+
 </style>
