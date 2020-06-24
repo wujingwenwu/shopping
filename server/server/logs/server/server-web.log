@@ -2017,3 +2017,259 @@ _message: "Address validation failed"
 pid: 4648
 hostname: WIN-95P6U511BP5
 
+2020-06-23 15:36:28,275 ERROR 928 [-/127.0.0.1/-/7ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"1\""
+kind: "ObjectId"
+value: 1
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:37:39,518 ERROR 928 [-/127.0.0.1/-/1ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"1\""
+kind: "ObjectId"
+value: 1
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:37:53,828 ERROR 928 [-/127.0.0.1/-/2ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"1\""
+kind: "ObjectId"
+value: 1
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:38:43,866 ERROR 928 [-/127.0.0.1/-/2ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"1\""
+kind: "ObjectId"
+value: 1
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:39:00,828 ERROR 928 [-/127.0.0.1/-/2ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"1\""
+kind: "ObjectId"
+value: 1
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:39:44,692 ERROR 928 [-/127.0.0.1/-/2ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"1\""
+kind: "ObjectId"
+value: 1
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:43:28,342 ERROR 928 [-/127.0.0.1/-/1ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"1\""
+kind: "ObjectId"
+value: 1
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:47:50,038 ERROR 928 [-/127.0.0.1/-/1ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"1\""
+kind: "ObjectId"
+value: 1
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:51:20,086 ERROR 928 [-/127.0.0.1/-/2ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "{
+  name: '',
+  tel: '',
+  country: '',
+  province: '',
+  city: '',
+  county: '',
+  areaCode: '',
+  postalCode: '',
+  addressDetail: '',
+  isDefault: false
+}" at path "_id" for model "Address"
+  name: '',
+  tel: '',
+  country: '',
+  province: '',
+  city: '',
+  county: '',
+  areaCode: '',
+  postalCode: '',
+  addressDetail: '',
+  isDefault: false
+}" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  name: '',\n  tel: '',\n  country: '',\n  province: '',\n  city: '',\n  county: '',\n  areaCode: '',\n  postalCode: '',\n  addressDetail: '',\n  isDefault: false\n}\""
+kind: "ObjectId"
+value: {"name":"","tel":"","country":"","province":"","city":"","county":"","areaCode":"","postalCode":"","addressDetail":"","isDefault":false}
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:51:36,445 ERROR 928 [-/127.0.0.1/-/1ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "{
+  name: '',
+  tel: '',
+  country: '',
+  province: '',
+  city: '',
+  county: '',
+  areaCode: '',
+  postalCode: '',
+  addressDetail: '',
+  isDefault: false
+}" at path "_id" for model "Address"
+  name: '',
+  tel: '',
+  country: '',
+  province: '',
+  city: '',
+  county: '',
+  areaCode: '',
+  postalCode: '',
+  addressDetail: '',
+  isDefault: false
+}" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  name: '',\n  tel: '',\n  country: '',\n  province: '',\n  city: '',\n  county: '',\n  areaCode: '',\n  postalCode: '',\n  addressDetail: '',\n  isDefault: false\n}\""
+kind: "ObjectId"
+value: {"name":"","tel":"","country":"","province":"","city":"","county":"","areaCode":"","postalCode":"","addressDetail":"","isDefault":false}
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 15:55:29,428 ERROR 928 [-/127.0.0.1/-/2ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "{
+  name: '',
+  tel: '',
+  country: '',
+  province: '',
+  city: '',
+  county: '',
+  areaCode: '',
+  postalCode: '',
+  addressDetail: '',
+  isDefault: false
+}" at path "_id" for model "Address"
+  name: '',
+  tel: '',
+  country: '',
+  province: '',
+  city: '',
+  county: '',
+  areaCode: '',
+  postalCode: '',
+  addressDetail: '',
+  isDefault: false
+}" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  name: '',\n  tel: '',\n  country: '',\n  province: '',\n  city: '',\n  county: '',\n  areaCode: '',\n  postalCode: '',\n  addressDetail: '',\n  isDefault: false\n}\""
+kind: "ObjectId"
+value: {"name":"","tel":"","country":"","province":"","city":"","county":"","areaCode":"","postalCode":"","addressDetail":"","isDefault":false}
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
+2020-06-23 16:00:00,149 ERROR 928 [-/127.0.0.1/-/1ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "{
+  name: '',
+  tel: '',
+  country: '',
+  province: '',
+  city: '',
+  county: '',
+  areaCode: '',
+  postalCode: '',
+  addressDetail: '',
+  isDefault: false
+}" at path "_id" for model "Address"
+  name: '',
+  tel: '',
+  country: '',
+  province: '',
+  city: '',
+  county: '',
+  areaCode: '',
+  postalCode: '',
+  addressDetail: '',
+  isDefault: false
+}" at path "_id" for model "Address"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  name: '',\n  tel: '',\n  country: '',\n  province: '',\n  city: '',\n  county: '',\n  areaCode: '',\n  postalCode: '',\n  addressDetail: '',\n  isDefault: false\n}\""
+kind: "ObjectId"
+value: {"name":"","tel":"","country":"","province":"","city":"","county":"","areaCode":"","postalCode":"","addressDetail":"","isDefault":false}
+path: "_id"
+reason: {}
+pid: 928
+hostname: WIN-95P6U511BP5
+
