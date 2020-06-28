@@ -2195,3 +2195,1276 @@ reason: {}
 pid: 928
 hostname: WIN-95P6U511BP5
 
+2020-06-24 09:34:26,469 ERROR 6732 [-/127.0.0.1/-/5ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ ids: '238bc2e023844769a6b67d9a4c04b2ea' }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ ids: '238bc2e023844769a6b67d9a4c04b2ea' }\""
+kind: "string"
+value: {"ids":"238bc2e023844769a6b67d9a4c04b2ea"}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 09:39:11,635 ERROR 6732 [-/127.0.0.1/-/1ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ ids: '238bc2e023844769a6b67d9a4c04b2ea' }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ ids: '238bc2e023844769a6b67d9a4c04b2ea' }\""
+kind: "string"
+value: {"ids":"238bc2e023844769a6b67d9a4c04b2ea"}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 09:40:07,456 ERROR 6732 [-/127.0.0.1/-/2ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{
+  obj: {
+    _id: '5ee9e3d92b654e30686782a7',
+    id: '238bc2e023844769a6b67d9a4c04b2ea',
+    goods_serlal_number: '6933179230104',
+    shop_id: '402880e860166f3c0160167897d60002',
+    sub_id: '2c9f6c94621970a801626a363e5a0176',
+    name: '纳美小苏打源生护龈牙膏3010/支',
+    orl_price: 16.8,
+    present_price: 16.8,
+    amount: 10000,
+    detail: '<img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083412_9293.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_8828.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_7855.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_6011.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_1189.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_2952.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9479.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_3434.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9342.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9808.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_7532.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_6988.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_2933.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_8392.jpg" width="100%" height="auto" alt="" />',
+    image: 'http://images.baixingliangfan.cn/shopGoodsImg/20180411/20180411083404_6619.jpg',
+    create_time: '1512208900930',
+    update_time: '1524532141539',
+    image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+    __v: 0
+  }
+}" at path "cid" for model "ShopList"
+  obj: {
+    _id: '5ee9e3d92b654e30686782a7',
+    id: '238bc2e023844769a6b67d9a4c04b2ea',
+    goods_serlal_number: '6933179230104',
+    shop_id: '402880e860166f3c0160167897d60002',
+    sub_id: '2c9f6c94621970a801626a363e5a0176',
+    name: '纳美小苏打源生护龈牙膏3010/支',
+    orl_price: 16.8,
+    present_price: 16.8,
+    amount: 10000,
+    detail: '<img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083412_9293.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_8828.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_7855.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_6011.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_1189.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_2952.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9479.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_3434.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9342.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9808.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_7532.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_6988.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_2933.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_8392.jpg" width="100%" height="auto" alt="" />',
+    image: 'http://images.baixingliangfan.cn/shopGoodsImg/20180411/20180411083404_6619.jpg',
+    create_time: '1512208900930',
+    update_time: '1524532141539',
+    image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+    __v: 0
+  }
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  obj: {\n    _id: '5ee9e3d92b654e30686782a7',\n    id: '238bc2e023844769a6b67d9a4c04b2ea',\n    goods_serlal_number: '6933179230104',\n    shop_id: '402880e860166f3c0160167897d60002',\n    sub_id: '2c9f6c94621970a801626a363e5a0176',\n    name: '纳美小苏打源生护龈牙膏3010/支',\n    orl_price: 16.8,\n    present_price: 16.8,\n    amount: 10000,\n    detail: '<img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083412_9293.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_8828.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_7855.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_6011.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_1189.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_2952.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9479.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_3434.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9342.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9808.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_7532.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_6988.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_2933.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_8392.jpg\" width=\"100%\" height=\"auto\" alt=\"\" />',\n    image: 'http://images.baixingliangfan.cn/shopGoodsImg/20180411/20180411083404_6619.jpg',\n    create_time: '1512208900930',\n    update_time: '1524532141539',\n    image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n    __v: 0\n  }\n}\""
+kind: "string"
+value: {"obj":{"_id":"5ee9e3d92b654e30686782a7","id":"238bc2e023844769a6b67d9a4c04b2ea","goods_serlal_number":"6933179230104","shop_id":"402880e860166f3c0160167897d60002","sub_id":"2c9f6c94621970a801626a363e5a0176","name":"纳美小苏打源生护龈牙膏3010/支","orl_price":16.8,"present_price":16.8,"amount":10000,"detail":"<img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083412_9293.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_8828.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_7855.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_6011.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_1189.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_2952.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9479.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_3434.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9342.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9808.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_7532.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_6988.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_2933.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_8392.jpg\" width=\"100%\" height=\"auto\" alt=\"\" />","image":"http://images.baixingliangfan.cn/shopGoodsImg/20180411/20180411083404_6619.jpg","create_time":"1512208900930","update_time":"1524532141539","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","__v":0}}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 09:40:54,181 ERROR 6732 [-/127.0.0.1/-/1ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{
+  obj: {
+    _id: '5ee9e3d92b654e30686782a7',
+    id: '238bc2e023844769a6b67d9a4c04b2ea',
+    goods_serlal_number: '6933179230104',
+    shop_id: '402880e860166f3c0160167897d60002',
+    sub_id: '2c9f6c94621970a801626a363e5a0176',
+    name: '纳美小苏打源生护龈牙膏3010/支',
+    orl_price: 16.8,
+    present_price: 16.8,
+    amount: 10000,
+    detail: '<img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083412_9293.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_8828.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_7855.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_6011.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_1189.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_2952.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9479.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_3434.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9342.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9808.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_7532.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_6988.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_2933.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_8392.jpg" width="100%" height="auto" alt="" />',
+    image: 'http://images.baixingliangfan.cn/shopGoodsImg/20180411/20180411083404_6619.jpg',
+    create_time: '1512208900930',
+    update_time: '1524532141539',
+    image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+    __v: 0
+  }
+}" at path "cid" for model "ShopList"
+  obj: {
+    _id: '5ee9e3d92b654e30686782a7',
+    id: '238bc2e023844769a6b67d9a4c04b2ea',
+    goods_serlal_number: '6933179230104',
+    shop_id: '402880e860166f3c0160167897d60002',
+    sub_id: '2c9f6c94621970a801626a363e5a0176',
+    name: '纳美小苏打源生护龈牙膏3010/支',
+    orl_price: 16.8,
+    present_price: 16.8,
+    amount: 10000,
+    detail: '<img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083412_9293.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_8828.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_7855.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_6011.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_1189.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_2952.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9479.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_3434.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9342.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9808.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_7532.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_6988.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_2933.jpg" width="100%" height="auto" alt="" /><img src="http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_8392.jpg" width="100%" height="auto" alt="" />',
+    image: 'http://images.baixingliangfan.cn/shopGoodsImg/20180411/20180411083404_6619.jpg',
+    create_time: '1512208900930',
+    update_time: '1524532141539',
+    image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+    __v: 0
+  }
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  obj: {\n    _id: '5ee9e3d92b654e30686782a7',\n    id: '238bc2e023844769a6b67d9a4c04b2ea',\n    goods_serlal_number: '6933179230104',\n    shop_id: '402880e860166f3c0160167897d60002',\n    sub_id: '2c9f6c94621970a801626a363e5a0176',\n    name: '纳美小苏打源生护龈牙膏3010/支',\n    orl_price: 16.8,\n    present_price: 16.8,\n    amount: 10000,\n    detail: '<img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083412_9293.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_8828.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_7855.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_6011.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_1189.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_2952.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9479.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_3434.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9342.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9808.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_7532.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_6988.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_2933.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_8392.jpg\" width=\"100%\" height=\"auto\" alt=\"\" />',\n    image: 'http://images.baixingliangfan.cn/shopGoodsImg/20180411/20180411083404_6619.jpg',\n    create_time: '1512208900930',\n    update_time: '1524532141539',\n    image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n    __v: 0\n  }\n}\""
+kind: "string"
+value: {"obj":{"_id":"5ee9e3d92b654e30686782a7","id":"238bc2e023844769a6b67d9a4c04b2ea","goods_serlal_number":"6933179230104","shop_id":"402880e860166f3c0160167897d60002","sub_id":"2c9f6c94621970a801626a363e5a0176","name":"纳美小苏打源生护龈牙膏3010/支","orl_price":16.8,"present_price":16.8,"amount":10000,"detail":"<img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083412_9293.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_8828.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_7855.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_6011.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_1189.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083413_2952.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9479.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_3434.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9342.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_9808.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083414_7532.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_6988.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_2933.jpg\" width=\"100%\" height=\"auto\" alt=\"\" /><img src=\"http://images.baixingliangfan.cn/shopGoodsDetailImg/20180411/20180411083415_8392.jpg\" width=\"100%\" height=\"auto\" alt=\"\" />","image":"http://images.baixingliangfan.cn/shopGoodsImg/20180411/20180411083404_6619.jpg","create_time":"1512208900930","update_time":"1524532141539","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","__v":0}}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 09:42:24,767 ERROR 6732 [-/127.0.0.1/-/1ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 09:43:25,959 ERROR 6732 [-/127.0.0.1/-/1ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 09:46:11,182 ERROR 6732 [-/127.0.0.1/-/1ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 10:41:19,283 ERROR 6732 [-/127.0.0.1/-/3ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 10:42:40,680 ERROR 6732 [-/127.0.0.1/-/1ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 10:43:20,510 ERROR 6732 [-/127.0.0.1/-/1ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-24 11:40:04,360 ERROR 6732 [-/127.0.0.1/-/3ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 6732
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:45:33,413 ERROR 12312 [-/127.0.0.1/-/19ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: '' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: '' }\""
+kind: "string"
+value: {"value":""}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:45:37,827 ERROR 12312 [-/127.0.0.1/-/3ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: '' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: '' }\""
+kind: "string"
+value: {"value":""}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:48:57,653 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: '' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: '' }\""
+kind: "string"
+value: {"value":""}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:39,874 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'y' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'y' }\""
+kind: "string"
+value: {"value":"y"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:40,082 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'yi' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'yi' }\""
+kind: "string"
+value: {"value":"yi"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:40,126 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'yin' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'yin' }\""
+kind: "string"
+value: {"value":"yin"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:40,317 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'ying' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'ying' }\""
+kind: "string"
+value: {"value":"ying"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:42,041 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'yin' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'yin' }\""
+kind: "string"
+value: {"value":"yin"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:42,505 ERROR 12312 [-/127.0.0.1/-/3ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'yi' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'yi' }\""
+kind: "string"
+value: {"value":"yi"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:42,654 ERROR 12312 [-/127.0.0.1/-/0ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'y' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'y' }\""
+kind: "string"
+value: {"value":"y"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:42,900 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: '' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: '' }\""
+kind: "string"
+value: {"value":""}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:57:45,448 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: '营养' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: '营养' }\""
+kind: "string"
+value: {"value":"营养"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 19:58:45,562 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: '营养' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: '营养' }\""
+kind: "string"
+value: {"value":"营养"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 20:00:39,730 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'vvgvg111' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'vvgvg111' }\""
+kind: "string"
+value: {"value":"vvgvg111"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 20:00:41,553 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: '' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: '' }\""
+kind: "string"
+value: {"value":""}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 20:08:30,899 ERROR 12312 [-/127.0.0.1/-/4ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'd' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'd' }\""
+kind: "string"
+value: {"value":"d"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 20:08:31,051 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'dd' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'dd' }\""
+kind: "string"
+value: {"value":"dd"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 20:08:37,031 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: 'd' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: 'd' }\""
+kind: "string"
+value: {"value":"d"}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 20:08:37,243 ERROR 12312 [-/127.0.0.1/-/3ms POST /v1/search] nodejs.CastError: Cast to string failed for value "{ value: '' }" at path "name" for model "Goods"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ value: '' }\""
+kind: "string"
+value: {"value":""}
+path: "name"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 20:27:24,786 ERROR 12312 [-/127.0.0.1/-/4ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ isTrusted: true }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ isTrusted: true }\""
+kind: "string"
+value: {"isTrusted":true}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 20:27:32,507 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ isTrusted: true }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ isTrusted: true }\""
+kind: "string"
+value: {"isTrusted":true}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:34:18,924 ERROR 12312 [-/127.0.0.1/-/8ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:34:22,465 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:36:25,191 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:36:27,805 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:36:28,054 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:36:28,333 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:37:52,766 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:38:12,215 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:38:25,280 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:38:27,186 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+  id: [
+    {
+      add_time: 1593181647363,
+      check: false,
+      count: 1,
+      _id: '5ef605cf4911f9301877955e',
+      uid: '5ef05c8d51473b12285d5c29',
+      present_price: 16.8,
+      cid: '238bc2e023844769a6b67d9a4c04b2ea',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',
+      name: '纳美小苏打源生护龈牙膏3010/支',
+      mallPrice: 16.8,
+      __v: 0
+    }
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  id: [\n    {\n      add_time: 1593181647363,\n      check: false,\n      count: 1,\n      _id: '5ef605cf4911f9301877955e',\n      uid: '5ef05c8d51473b12285d5c29',\n      present_price: 16.8,\n      cid: '238bc2e023844769a6b67d9a4c04b2ea',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg',\n      name: '纳美小苏打源生护龈牙膏3010/支',\n      mallPrice: 16.8,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"id":[{"add_time":1593181647363,"check":false,"count":1,"_id":"5ef605cf4911f9301877955e","uid":"5ef05c8d51473b12285d5c29","present_price":16.8,"cid":"238bc2e023844769a6b67d9a4c04b2ea","image_path":"http://images.baixingliangfan.cn/compressedPic/20180411083404_6619.jpg","name":"纳美小苏打源生护龈牙膏3010/支","mallPrice":16.8,"__v":0}]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:40:11,185 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [] }\""
+kind: "string"
+value: {"id":[]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:43:51,067 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [] }\""
+kind: "string"
+value: {"id":[]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:43:53,347 ERROR 12312 [-/127.0.0.1/-/0ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [] }\""
+kind: "string"
+value: {"id":[]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:44:40,884 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [] }\""
+kind: "string"
+value: {"id":[]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:45:07,878 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [] }\""
+kind: "string"
+value: {"id":[]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:46:26,943 ERROR 12312 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [] }\""
+kind: "string"
+value: {"id":[]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:46:41,250 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ null ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ null ] }\""
+kind: "string"
+value: {"id":[null]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:46:43,246 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ null ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ null ] }\""
+kind: "string"
+value: {"id":[null]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:46:43,497 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ null ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ null ] }\""
+kind: "string"
+value: {"id":[null]}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:07,938 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:09,358 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:09,610 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:09,838 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:10,045 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:10,238 ERROR 12312 [-/127.0.0.1/-/0ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:32,077 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:35,956 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:37,018 ERROR 12312 [-/127.0.0.1/-/0ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:37,718 ERROR 12312 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-26 22:47:39,838 ERROR 12312 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 12312
+hostname: WIN-95P6U511BP5
+
+2020-06-27 18:26:43,439 ERROR 10540 [-/127.0.0.1/-/24ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 10540
+hostname: WIN-95P6U511BP5
+
