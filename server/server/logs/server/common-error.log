@@ -3468,3 +3468,244 @@ reason: null
 pid: 10540
 hostname: WIN-95P6U511BP5
 
+2020-06-28 08:33:55,518 ERROR 8648 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 08:33:58,493 ERROR 8648 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 08:33:59,866 ERROR 8648 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 13:31:00,755 ERROR 8648 [-/127.0.0.1/-/5ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ id: [ '24afea564e5248b5a2bc59da95f09911' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: [ '24afea564e5248b5a2bc59da95f09911' ] }\""
+kind: "string"
+value: {"id":["24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 13:33:41,660 ERROR 8648 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ '24afea564e5248b5a2bc59da95f09911' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ '24afea564e5248b5a2bc59da95f09911' ] }\""
+kind: "string"
+value: {"idArr":["24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 13:42:45,670 ERROR 8648 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ '24afea564e5248b5a2bc59da95f09911' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ '24afea564e5248b5a2bc59da95f09911' ] }\""
+kind: "string"
+value: {"idArr":["24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 13:43:31,373 ERROR 8648 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  idArr: [
+    '24afea564e5248b5a2bc59da95f09911',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+  idArr: [
+    '24afea564e5248b5a2bc59da95f09911',
+    '24afea564e5248b5a2bc59da95f09911'
+  ]
+}" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{\n  idArr: [\n    '24afea564e5248b5a2bc59da95f09911',\n    '24afea564e5248b5a2bc59da95f09911'\n  ]\n}\""
+kind: "string"
+value: {"idArr":["24afea564e5248b5a2bc59da95f09911","24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 13:44:23,854 ERROR 8648 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: { idArr: [ '24afea564e5248b5a2bc59da95f09911' ] } }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: { idArr: [ '24afea564e5248b5a2bc59da95f09911' ] } }\""
+kind: "string"
+value: {"idArr":{"idArr":["24afea564e5248b5a2bc59da95f09911"]}}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 13:44:30,517 ERROR 8648 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: { idArr: [ '24afea564e5248b5a2bc59da95f09911' ] } }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: { idArr: [ '24afea564e5248b5a2bc59da95f09911' ] } }\""
+kind: "string"
+value: {"idArr":{"idArr":["24afea564e5248b5a2bc59da95f09911"]}}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 13:45:07,500 ERROR 8648 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ '24afea564e5248b5a2bc59da95f09911' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ '24afea564e5248b5a2bc59da95f09911' ] }\""
+kind: "string"
+value: {"idArr":["24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 13:46:28,074 ERROR 8648 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ idArr: [ '24afea564e5248b5a2bc59da95f09911' ] }" at path "cid" for model "ShopList"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ idArr: [ '24afea564e5248b5a2bc59da95f09911' ] }\""
+kind: "string"
+value: {"idArr":["24afea564e5248b5a2bc59da95f09911"]}
+path: "cid"
+reason: null
+pid: 8648
+hostname: WIN-95P6U511BP5
+
+2020-06-28 21:12:01,108 ERROR 13496 [-/127.0.0.1/-/5ms POST /v1/isCollection] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "Collection"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 13496
+hostname: WIN-95P6U511BP5
+
+2020-06-28 21:12:05,922 ERROR 13496 [-/127.0.0.1/-/2ms POST /v1/isCollection] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "Collection"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 13496
+hostname: WIN-95P6U511BP5
+
+2020-06-28 21:18:31,101 ERROR 13496 [-/127.0.0.1/-/1ms POST /v1/isCollection] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "Collection"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 13496
+hostname: WIN-95P6U511BP5
+
+2020-06-28 21:18:35,340 ERROR 13496 [-/127.0.0.1/-/1ms POST /v1/isCollection] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "Collection"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 13496
+hostname: WIN-95P6U511BP5
+
+2020-06-28 22:19:31,117 ERROR 13496 [-/127.0.0.1/-/1ms POST /v1/isCollection] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "Collection"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 13496
+hostname: WIN-95P6U511BP5
+
+2020-06-28 22:30:41,037 ERROR 13496 [-/127.0.0.1/-/3ms POST /v1/isCollection] nodejs.CastError: Cast to string failed for value "{}" at path "cid" for model "Collection"
+    at model.Query.exec (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (E:\项目\xiangmu2\server\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{}\""
+kind: "string"
+value: {}
+path: "cid"
+reason: null
+pid: 13496
+hostname: WIN-95P6U511BP5
+
