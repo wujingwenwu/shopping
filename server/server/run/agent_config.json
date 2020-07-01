@@ -79,7 +79,7 @@
       "cookieMaxAge": "1y"
     },
     "watcher": {
-      "type": "default",
+      "type": "development",
       "eventSources": {
         "default": "E:\\项目\\xiangmu2\\server\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\default",
         "development": "E:\\项目\\xiangmu2\\server\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\development"
@@ -110,6 +110,13 @@
         "cron": "0 30 4 * * *"
       }
     },
+    "development": {
+      "watchDirs": [],
+      "ignoreDirs": [],
+      "fastReady": false,
+      "reloadOnDebug": true,
+      "overrideDefault": false
+    },
     "logrotator": {
       "filesRotateByHour": null,
       "hourDelimiter": "-",
@@ -124,13 +131,12 @@
       "dir": "E:\\项目\\xiangmu2\\server\\server\\app\\public",
       "dynamic": true,
       "preload": false,
-      "buffer": true,
-      "maxFiles": 1000,
-      "maxAge": 31536000
+      "buffer": false,
+      "maxFiles": 1000
     },
     "view": {
       "root": "E:\\项目\\xiangmu2\\server\\server\\app\\view",
-      "cache": true,
+      "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
       "mapping": {
@@ -152,7 +158,7 @@
     },
     "ejs": {
       "root": "E:\\项目\\xiangmu2\\server\\server\\app\\view",
-      "cache": true,
+      "cache": false,
       "debug": false,
       "compileDebug": true,
       "delimiter": null,
@@ -162,7 +168,7 @@
       "secret": "<String len: 3>",
       "enable": false
     },
-    "env": "prod",
+    "env": "local",
     "name": "server",
     "keys": "<String len: 25>",
     "cookies": {},
@@ -259,19 +265,21 @@
       "onerror": "<Function onerror>"
     },
     "logger": {
-      "dir": "C:\\Users\\Administrator\\logs\\server",
+      "dir": "E:\\项目\\xiangmu2\\server\\server\\logs\\server",
       "encoding": "utf8",
-      "env": "prod",
+      "env": "local",
       "level": "INFO",
       "consoleLevel": "INFO",
-      "disableConsoleAfterReady": true,
+      "disableConsoleAfterReady": false,
       "outputJSON": false,
       "buffer": true,
       "appLogName": "server-web.log",
       "coreLogName": "egg-web.log",
       "agentLogName": "egg-agent.log",
       "errorLogName": "common-error.log",
-      "coreLogger": {},
+      "coreLogger": {
+        "consoleLevel": "WARN"
+      },
       "allowDebugAtProd": false,
       "type": "agent"
     },
@@ -426,6 +434,21 @@
       "from": "E:\\项目\\xiangmu2\\server\\server\\node_modules\\_egg@2.26.1@egg\\config\\plugin.js",
       "path": "E:\\项目\\xiangmu2\\server\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart",
       "version": "2.10.3"
+    },
+    "development": {
+      "enable": true,
+      "package": "egg-development",
+      "name": "development",
+      "dependencies": [
+        "watcher"
+      ],
+      "optionalDependencies": [],
+      "env": [
+        "local"
+      ],
+      "from": "E:\\项目\\xiangmu2\\server\\server\\node_modules\\_egg@2.26.1@egg\\config\\plugin.js",
+      "path": "E:\\项目\\xiangmu2\\server\\server\\node_modules\\_egg-development@2.5.0@egg-development",
+      "version": "2.5.0"
     },
     "logrotator": {
       "enable": true,
