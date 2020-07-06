@@ -80,6 +80,6 @@ export default {
   margin-top: 55px;
 }
 .itemas{
-  height: 170px;
+  width: 200px;
 }
 </style>

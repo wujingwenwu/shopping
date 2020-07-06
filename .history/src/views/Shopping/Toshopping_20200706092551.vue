@@ -2,7 +2,7 @@
   <div>
   <div v-if="this.nickname===null">
   <img src=".././../../server/可能要用的图片/loading.gif" alt="" width="100%">
-   <div class="d-f j-c-c f-s-18">您还没有登录是否跳转:
+   <div class="d-f j-c-c">您还没有登录是否跳转:
    <div class=" f-c-ho" @click="denglu">登录</div>
    </div>
   </div>

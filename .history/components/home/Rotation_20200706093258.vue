@@ -2,7 +2,7 @@
   <!-- 轮播图 -->
   <div class="itema">
   
-    <div class="itemas">
+    <div class="">
       <van-swipe :autoplay="3000">
       
         <van-swipe-item v-for="(item,index) in slides" :key="index">
@@ -78,8 +78,5 @@ export default {
 }
 .itema{
   margin-top: 55px;
-}
-.itemas{
-  height: 170px;
 }
 </style>

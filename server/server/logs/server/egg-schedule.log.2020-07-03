@@ -1,0 +1,603 @@
+2020-01-06 00:27:00,945 INFO 4184 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-06 00:27:00,945 INFO 4184 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-06 00:27:00,945 INFO 4184 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-06 00:27:02,711 INFO 12404 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-06 00:27:02,711 INFO 12404 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-06 00:27:02,711 INFO 12404 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-06 08:15:47,610 INFO 3028 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-06 08:15:47,610 INFO 3028 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-06 08:15:47,610 INFO 3028 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-06 08:16:00,515 INFO 7376 [Timer] E:\project\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72839489ms at 2020-01-07 04:30:00.004
+2020-01-06 08:16:00,515 INFO 7376 [Timer] E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56639485ms at 2020-01-07 00:00:00.000
+2020-01-06 08:16:00,516 INFO 7376 [Timer] E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56640484ms at 2020-01-07 00:00:01.000
+2020-01-06 20:39:09,284 INFO 12420 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-06 20:39:09,284 INFO 12420 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-06 20:39:09,284 INFO 12420 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-06 20:39:09,564 INFO 14412 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-06 20:39:09,564 INFO 14412 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-06 20:39:09,564 INFO 14412 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-06 20:39:35,237 INFO 1020 [Timer] F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 28224765ms at 2020-01-07 04:30:00.002
+2020-01-06 20:39:35,237 INFO 1020 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 12024763ms at 2020-01-07 00:00:00.000
+2020-01-06 20:39:35,237 INFO 1020 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 12025763ms at 2020-01-07 00:00:01.000
+2020-01-06 20:39:36,086 INFO 15048 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-06 20:39:36,086 INFO 15048 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-06 20:39:36,086 INFO 15048 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-06 20:39:37,433 INFO 15176 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-06 20:39:37,433 INFO 15176 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-06 20:39:37,433 INFO 15176 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-07 08:22:08,760 INFO 6932 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-07 08:22:08,760 INFO 6932 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-07 08:22:08,760 INFO 6932 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-07 08:22:16,362 INFO 6812 [Timer] E:\project\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72463642ms at 2020-01-08 04:30:00.004
+2020-01-07 08:22:16,362 INFO 6812 [Timer] E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56263638ms at 2020-01-08 00:00:00.000
+2020-01-07 08:22:16,363 INFO 6812 [Timer] E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56264637ms at 2020-01-08 00:00:01.000
+2020-01-07 21:46:24,043 INFO 2248 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-07 21:46:24,043 INFO 2248 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-07 21:46:24,043 INFO 2248 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-07 21:46:24,634 INFO 14844 [Timer] F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 24215367ms at 2020-01-08 04:30:00.001
+2020-01-07 21:46:24,635 INFO 14844 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 8015366ms at 2020-01-08 00:00:00.001
+2020-01-07 21:46:24,635 INFO 14844 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8016365ms at 2020-01-08 00:00:01.000
+2020-01-07 21:46:25,067 INFO 7372 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-07 21:46:25,067 INFO 7372 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-07 21:46:25,067 INFO 7372 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-07 21:46:26,345 INFO 9656 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-07 21:46:26,345 INFO 9656 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-07 21:46:26,345 INFO 9656 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-08 08:26:22,968 INFO 5040 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-08 08:26:22,968 INFO 5040 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-08 08:26:22,968 INFO 5040 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-08 08:26:26,685 INFO 1048 [Timer] E:\project\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72213318ms at 2020-01-09 04:30:00.003
+2020-01-08 08:26:26,686 INFO 1048 [Timer] E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56013314ms at 2020-01-09 00:00:00.000
+2020-01-08 08:26:26,687 INFO 1048 [Timer] E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56014314ms at 2020-01-09 00:00:01.001
+2020-01-08 19:39:11,611 INFO 9780 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-08 19:39:11,611 INFO 9780 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-08 19:39:11,611 INFO 9780 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-08 19:39:11,187 INFO 10916 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-08 19:39:11,187 INFO 10916 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-08 19:39:11,187 INFO 10916 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-08 19:39:22,421 INFO 2604 [Timer] F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 31837581ms at 2020-01-09 04:30:00.002
+2020-01-08 19:39:22,421 INFO 2604 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 15637579ms at 2020-01-09 00:00:00.000
+2020-01-08 19:39:22,421 INFO 2604 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 15638579ms at 2020-01-09 00:00:01.000
+2020-01-08 19:39:23,182 INFO 15380 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-08 19:39:23,182 INFO 15380 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-08 19:39:23,182 INFO 15380 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-08 19:39:24,667 INFO 11628 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-08 19:39:24,667 INFO 11628 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-08 19:39:24,667 INFO 11628 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-09 08:11:45,251 INFO 2632 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-09 08:11:45,251 INFO 2632 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-09 08:11:45,251 INFO 2632 [egg-schedule]: register schedule E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-09 08:11:51,466 INFO 9400 [Timer] E:\project\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 73088540ms at 2020-01-10 04:30:00.006
+2020-01-09 08:11:51,467 INFO 9400 [Timer] E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56888534ms at 2020-01-10 00:00:00.001
+2020-01-09 08:11:51,468 INFO 9400 [Timer] E:\project\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56889533ms at 2020-01-10 00:00:01.001
+2020-01-09 15:24:31,648 INFO 8204 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-09 15:24:31,648 INFO 8204 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-09 15:24:31,648 INFO 8204 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-09 15:24:32,607 INFO 6360 [Timer] E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47127395ms at 2020-01-10 04:30:00.002
+2020-01-09 15:24:32,608 INFO 6360 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 30927393ms at 2020-01-10 00:00:00.001
+2020-01-09 15:24:32,608 INFO 6360 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30928392ms at 2020-01-10 00:00:01.000
+2020-01-09 21:21:09,839 INFO 11496 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-09 21:21:09,839 INFO 11496 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-09 21:21:09,839 INFO 11496 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-09 21:21:10,257 INFO 11220 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-09 21:21:10,257 INFO 11220 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-09 21:21:10,257 INFO 11220 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-09 21:21:18,898 INFO 6448 [Timer] F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25721104ms at 2020-01-10 04:30:00.002
+2020-01-09 21:21:18,898 INFO 6448 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 9521102ms at 2020-01-10 00:00:00.000
+2020-01-09 21:21:18,898 INFO 6448 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9522102ms at 2020-01-10 00:00:01.000
+2020-01-09 21:21:19,819 INFO 3660 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-09 21:21:19,819 INFO 3660 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-09 21:21:19,819 INFO 3660 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-09 21:21:21,463 INFO 14044 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-09 21:21:21,463 INFO 14044 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-09 21:21:21,463 INFO 14044 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-10 08:16:42,800 INFO 9888 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-10 08:16:42,800 INFO 9888 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-10 08:16:42,800 INFO 9888 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-10 08:16:49,783 INFO 9112 [Timer] E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72790221ms at 2020-01-11 04:30:00.004
+2020-01-10 08:16:49,784 INFO 9112 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56590216ms at 2020-01-11 00:00:00.000
+2020-01-10 08:16:49,786 INFO 9112 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56591216ms at 2020-01-11 00:00:01.002
+2020-01-10 09:22:30,958 INFO 9412 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-10 09:22:30,958 INFO 9412 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-10 09:22:30,958 INFO 9412 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-10 09:22:36,084 INFO 10552 [Timer] E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68843920ms at 2020-01-11 04:30:00.004
+2020-01-10 09:22:36,085 INFO 10552 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 52643916ms at 2020-01-11 00:00:00.001
+2020-01-10 09:22:36,085 INFO 10552 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52644915ms at 2020-01-11 00:00:01.000
+2020-01-10 21:15:54,313 INFO 12064 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-10 21:15:54,313 INFO 12064 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-10 21:15:54,313 INFO 12064 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-10 21:15:54,607 INFO 6512 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-10 21:15:54,607 INFO 6512 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-10 21:15:54,607 INFO 6512 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-10 21:16:06,216 INFO 3568 [Timer] F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26033786ms at 2020-01-11 04:30:00.002
+2020-01-10 21:16:06,216 INFO 3568 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 9833784ms at 2020-01-11 00:00:00.000
+2020-01-10 21:16:06,216 INFO 3568 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9834784ms at 2020-01-11 00:00:01.000
+2020-01-10 21:16:07,097 INFO 2868 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-10 21:16:07,097 INFO 2868 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-10 21:16:07,097 INFO 2868 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-10 21:16:08,481 INFO 17896 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-10 21:16:08,481 INFO 17896 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-10 21:16:08,481 INFO 17896 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-11 08:20:27,417 INFO 4756 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-11 08:20:27,417 INFO 4756 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-11 08:20:27,417 INFO 4756 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-11 08:20:31,703 INFO 6416 [Timer] E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72568301ms at 2020-01-12 04:30:00.003
+2020-01-11 08:20:31,703 INFO 6416 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56368297ms at 2020-01-12 00:00:00.000
+2020-01-11 08:20:31,704 INFO 6416 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56369297ms at 2020-01-12 00:00:01.001
+2020-01-11 17:19:53,903 INFO 13052 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-11 17:19:53,903 INFO 13052 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-11 17:19:53,903 INFO 13052 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-11 17:19:58,166 INFO 13196 [Timer] E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40201837ms at 2020-01-12 04:30:00.003
+2020-01-11 17:19:58,167 INFO 13196 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 24001833ms at 2020-01-12 00:00:00.000
+2020-01-11 17:19:58,167 INFO 13196 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24002833ms at 2020-01-12 00:00:01.000
+2020-01-13 10:39:15,516 INFO 9232 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-13 10:39:15,516 INFO 9232 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-13 10:39:15,516 INFO 9232 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-13 10:39:19,370 INFO 10052 [Timer] E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64240634ms at 2020-01-14 04:30:00.004
+2020-01-13 10:39:19,371 INFO 10052 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 48040629ms at 2020-01-14 00:00:00.000
+2020-01-13 10:39:19,372 INFO 10052 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48041629ms at 2020-01-14 00:00:01.001
+2020-01-13 10:46:26,146 INFO 6604 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-13 10:46:26,146 INFO 6604 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-13 10:46:26,146 INFO 6604 [egg-schedule]: register schedule E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-13 10:46:29,982 INFO 1796 [Timer] E:\project\finish\shop\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63810022ms at 2020-01-14 04:30:00.004
+2020-01-13 10:46:29,983 INFO 1796 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 47610018ms at 2020-01-14 00:00:00.000
+2020-01-13 10:46:29,983 INFO 1796 [Timer] E:\project\finish\shop\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47611017ms at 2020-01-14 00:00:01.000
+2020-01-13 21:25:23,529 INFO 6840 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-13 21:25:23,529 INFO 6840 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-13 21:25:23,529 INFO 6840 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-13 21:25:23,649 INFO 2460 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-13 21:25:23,649 INFO 2460 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-13 21:25:23,649 INFO 2460 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-13 21:25:35,675 INFO 3304 [Timer] F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25464327ms at 2020-01-14 04:30:00.002
+2020-01-13 21:25:35,675 INFO 3304 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 9264325ms at 2020-01-14 00:00:00.000
+2020-01-13 21:25:35,676 INFO 3304 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9265325ms at 2020-01-14 00:00:01.000
+2020-01-13 21:25:36,381 INFO 11856 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-13 21:25:36,381 INFO 11856 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-13 21:25:36,381 INFO 11856 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-13 21:25:37,652 INFO 8652 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-13 21:25:37,652 INFO 8652 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-01-13 21:25:37,652 INFO 8652 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-02-01 16:02:47,236 INFO 7244 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-02-01 16:02:47,236 INFO 7244 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-02-01 16:02:47,236 INFO 7244 [egg-schedule]: register schedule F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-02-01 16:02:56,497 INFO 7104 [Timer] F:\project\Shopping\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44823506ms at 2020-02-02 04:30:00.003
+2020-02-01 16:02:56,497 INFO 7104 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 28623503ms at 2020-02-02 00:00:00.000
+2020-02-01 16:02:56,498 INFO 7104 [Timer] F:\project\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28624503ms at 2020-02-02 00:00:01.001
+2020-06-08 13:29:06,174 INFO 8628 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-08 13:29:06,174 INFO 8628 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-08 13:29:06,174 INFO 8628 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-08 13:29:06,813 INFO 7316 [Timer] C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 54053189ms at 2020-06-09 04:30:00.002
+2020-06-08 13:29:06,813 INFO 7316 [Timer] C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 37853187ms at 2020-06-09 00:00:00.000
+2020-06-08 13:29:06,813 INFO 7316 [Timer] C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37854187ms at 2020-06-09 00:00:01.000
+2020-06-08 16:21:50,730 INFO 10468 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-08 16:21:50,730 INFO 10468 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-08 16:21:50,730 INFO 10468 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-08 16:22:01,384 INFO 10776 [Timer] C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43678618ms at 2020-06-09 04:30:00.002
+2020-06-08 16:22:01,384 INFO 10776 [Timer] C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 27478616ms at 2020-06-09 00:00:00.000
+2020-06-08 16:22:01,384 INFO 10776 [Timer] C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27479616ms at 2020-06-09 00:00:01.000
+2020-06-08 16:22:00,764 INFO 9212 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-08 16:22:00,764 INFO 9212 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-08 16:22:00,764 INFO 9212 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 17:04:01,710 INFO 7592 [Timer] C:\Users\Administrator\Desktop\Shopping\项目资料\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41158292ms at 2020-06-18 04:30:00.002
+2020-06-17 17:04:01,711 INFO 7592 [Timer] C:\Users\Administrator\Desktop\Shopping\项目资料\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 24958289ms at 2020-06-18 00:00:00.000
+2020-06-17 17:04:01,711 INFO 7592 [Timer] C:\Users\Administrator\Desktop\Shopping\项目资料\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24959289ms at 2020-06-18 00:00:01.000
+2020-06-17 17:04:00,957 INFO 10840 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\项目资料\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 17:04:00,957 INFO 10840 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\项目资料\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 17:04:00,957 INFO 10840 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\Shopping\项目资料\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 17:32:03,679 INFO 5632 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39476325ms at 2020-06-18 04:30:00.004
+2020-06-17 17:32:03,680 INFO 5632 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 23276321ms at 2020-06-18 00:00:00.001
+2020-06-17 17:32:03,680 INFO 5632 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23277320ms at 2020-06-18 00:00:01.000
+2020-06-17 17:32:02,795 INFO 9428 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 17:32:02,795 INFO 9428 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 17:32:02,795 INFO 9428 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 17:32:04,036 INFO 11920 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 17:32:04,036 INFO 11920 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 17:32:04,036 INFO 11920 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 17:32:05,791 INFO 11996 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 17:32:05,791 INFO 11996 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 17:32:05,791 INFO 11996 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 17:33:28,550 INFO 9936 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39391452ms at 2020-06-18 04:30:00.002
+2020-06-17 17:33:28,551 INFO 9936 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 23191450ms at 2020-06-18 00:00:00.001
+2020-06-17 17:33:28,551 INFO 9936 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23192449ms at 2020-06-18 00:00:01.000
+2020-06-17 17:33:27,784 INFO 12392 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 17:33:27,784 INFO 12392 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 17:33:27,784 INFO 12392 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 17:35:23,003 INFO 272 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 17:35:23,003 INFO 272 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 17:35:23,003 INFO 272 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 22:26:56,514 INFO 7964 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 22:26:56,514 INFO 7964 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 22:26:56,515 INFO 7964 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 22:26:58,713 INFO 7648 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 21781295ms at 2020-06-18 04:30:00.008
+2020-06-17 22:26:58,713 INFO 7648 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 5581287ms at 2020-06-18 00:00:00.000
+2020-06-17 22:26:58,714 INFO 7648 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 5582287ms at 2020-06-18 00:00:01.001
+2020-06-17 22:26:58,686 INFO 7660 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 22:26:58,686 INFO 7660 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 22:26:58,686 INFO 7660 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-17 22:27:02,058 INFO 3024 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-17 22:27:02,058 INFO 3024 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-17 22:27:02,058 INFO 3024 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-18 08:16:43,874 INFO 2756 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-18 08:16:43,874 INFO 2756 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-18 08:16:43,874 INFO 2756 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-18 08:16:51,073 INFO 12108 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72788932ms at 2020-06-19 04:30:00.005
+2020-06-18 08:16:51,074 INFO 12108 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56588927ms at 2020-06-19 00:00:00.001
+2020-06-18 08:16:51,075 INFO 12108 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56589926ms at 2020-06-19 00:00:01.001
+2020-06-18 08:16:56,034 INFO 13696 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-18 08:16:56,034 INFO 13696 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-18 08:16:56,034 INFO 13696 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-18 08:17:18,279 INFO 5376 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-18 08:17:18,279 INFO 5376 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-18 08:17:18,279 INFO 5376 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-18 21:40:57,994 INFO 8076 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-18 21:40:57,994 INFO 8076 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-18 21:40:57,994 INFO 8076 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-18 21:40:59,437 INFO 820 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 24540566ms at 2020-06-19 04:30:00.003
+2020-06-18 21:40:59,437 INFO 820 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 8340563ms at 2020-06-19 00:00:00.000
+2020-06-18 21:40:59,438 INFO 820 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8341563ms at 2020-06-19 00:00:01.001
+2020-06-18 21:40:59,440 INFO 7864 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-18 21:40:59,440 INFO 7864 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-18 21:40:59,440 INFO 7864 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-18 21:41:01,274 INFO 6012 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-18 21:41:01,274 INFO 6012 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-18 21:41:01,274 INFO 6012 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-18 21:43:08,328 INFO 8840 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-18 21:43:08,328 INFO 8840 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-18 21:43:08,328 INFO 8840 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-18 21:43:09,263 INFO 2300 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 24410740ms at 2020-06-19 04:30:00.003
+2020-06-18 21:43:09,264 INFO 2300 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 8210737ms at 2020-06-19 00:00:00.001
+2020-06-18 21:43:09,264 INFO 2300 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8211736ms at 2020-06-19 00:00:01.000
+2020-06-19 08:37:03,500 INFO 8700 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-19 08:37:03,500 INFO 8700 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-19 08:37:03,500 INFO 8700 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-19 08:37:09,843 INFO 9244 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71570165ms at 2020-06-20 04:30:00.008
+2020-06-19 08:37:09,844 INFO 9244 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 55370157ms at 2020-06-20 00:00:00.001
+2020-06-19 08:37:09,845 INFO 9244 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55371156ms at 2020-06-20 00:00:01.001
+2020-06-19 08:37:15,641 INFO 1472 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-19 08:37:15,642 INFO 1472 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-19 08:37:15,642 INFO 1472 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-19 08:37:39,134 INFO 12316 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-19 08:37:39,134 INFO 12316 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-19 08:37:39,134 INFO 12316 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-20 11:27:18,745 INFO 12468 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-20 11:27:18,745 INFO 12468 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-20 11:27:18,745 INFO 12468 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-20 11:27:20,117 INFO 13512 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61359887ms at 2020-06-21 04:30:00.004
+2020-06-20 11:27:20,117 INFO 13512 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 45159883ms at 2020-06-21 00:00:00.000
+2020-06-20 11:27:20,118 INFO 13512 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45160883ms at 2020-06-21 00:00:01.001
+2020-06-20 11:27:20,078 INFO 6640 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-20 11:27:20,078 INFO 6640 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-20 11:27:20,078 INFO 6640 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-20 11:27:21,887 INFO 10780 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-20 11:27:21,887 INFO 10780 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-20 11:27:21,887 INFO 10780 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-20 18:30:42,927 INFO 3068 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-20 18:30:42,927 INFO 3068 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-20 18:30:42,927 INFO 3068 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-20 18:30:45,415 INFO 9212 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-20 18:30:45,416 INFO 9212 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-20 18:30:45,416 INFO 9212 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 12:25:44,599 INFO 6008 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 12:25:44,599 INFO 6008 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-21 12:25:44,599 INFO 6008 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 12:25:46,192 INFO 8224 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 57853811ms at 2020-06-22 04:30:00.003
+2020-06-21 12:25:46,192 INFO 8224 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 41653808ms at 2020-06-22 00:00:00.000
+2020-06-21 12:25:46,193 INFO 8224 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 41654808ms at 2020-06-22 00:00:01.001
+2020-06-21 12:25:46,053 INFO 6284 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 12:25:46,053 INFO 6284 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-21 12:25:46,053 INFO 6284 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 12:25:47,861 INFO 10424 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 12:25:47,861 INFO 10424 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-21 12:25:47,861 INFO 10424 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 14:55:18,712 INFO 8664 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 14:55:18,712 INFO 8664 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-21 14:55:18,712 INFO 8664 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 14:55:20,281 INFO 4316 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48879723ms at 2020-06-22 04:30:00.004
+2020-06-21 14:55:20,282 INFO 4316 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 32679719ms at 2020-06-22 00:00:00.001
+2020-06-21 14:55:20,283 INFO 4316 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32680718ms at 2020-06-22 00:00:01.001
+2020-06-21 14:55:19,874 INFO 8024 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 14:55:19,874 INFO 8024 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-21 14:55:19,874 INFO 8024 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 14:55:21,849 INFO 4256 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 14:55:21,849 INFO 4256 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-21 14:55:21,849 INFO 4256 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-22 08:19:59,756 INFO 9260 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-22 08:19:59,756 INFO 9260 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-22 08:19:59,756 INFO 9260 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-22 08:20:01,048 INFO 4072 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72598955ms at 2020-06-23 04:30:00.003
+2020-06-22 08:20:01,048 INFO 4072 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56398952ms at 2020-06-23 00:00:00.000
+2020-06-22 08:20:01,049 INFO 4072 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56399952ms at 2020-06-23 00:00:01.001
+2020-06-22 08:20:00,992 INFO 9840 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-22 08:20:00,992 INFO 9840 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-22 08:20:00,992 INFO 9840 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-22 08:20:02,748 INFO 4648 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-22 08:20:02,748 INFO 4648 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-22 08:20:02,749 INFO 4648 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-22 21:06:36,447 INFO 11260 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-22 21:06:36,447 INFO 11260 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-22 21:06:36,447 INFO 11260 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-22 21:06:38,588 INFO 4132 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-22 21:06:38,588 INFO 4132 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-22 21:06:38,588 INFO 4132 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-22 21:06:39,352 INFO 2056 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26600656ms at 2020-06-23 04:30:00.008
+2020-06-22 21:06:39,353 INFO 2056 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10400648ms at 2020-06-23 00:00:00.001
+2020-06-22 21:06:39,353 INFO 2056 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10401647ms at 2020-06-23 00:00:01.000
+2020-06-22 21:06:42,218 INFO 7004 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-22 21:06:42,218 INFO 7004 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-22 21:06:42,218 INFO 7004 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-23 08:19:27,708 INFO 1288 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-23 08:19:27,708 INFO 1288 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-23 08:19:27,708 INFO 1288 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-23 08:19:29,234 INFO 10500 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72630770ms at 2020-06-24 04:30:00.004
+2020-06-23 08:19:29,234 INFO 10500 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56430766ms at 2020-06-24 00:00:00.000
+2020-06-23 08:19:29,235 INFO 10500 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56431766ms at 2020-06-24 00:00:01.000
+2020-06-23 08:19:29,176 INFO 9088 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-23 08:19:29,176 INFO 9088 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-23 08:19:29,176 INFO 9088 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-23 08:19:31,153 INFO 928 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-23 08:19:31,153 INFO 928 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-23 08:19:31,153 INFO 928 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-24 08:34:52,520 INFO 5672 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-24 08:34:52,520 INFO 5672 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-24 08:34:52,520 INFO 5672 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-24 08:34:53,951 INFO 6752 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71706055ms at 2020-06-25 04:30:00.006
+2020-06-24 08:34:53,951 INFO 6752 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 55506049ms at 2020-06-25 00:00:00.000
+2020-06-24 08:34:53,952 INFO 6752 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55507049ms at 2020-06-25 00:00:01.001
+2020-06-24 08:34:53,907 INFO 5428 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-24 08:34:53,907 INFO 5428 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-24 08:34:53,907 INFO 5428 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-24 08:34:55,578 INFO 6732 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-24 08:34:55,578 INFO 6732 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-24 08:34:55,578 INFO 6732 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-24 21:42:32,476 INFO 13616 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-24 21:42:32,476 INFO 13616 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-24 21:42:32,476 INFO 13616 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-24 21:42:35,728 INFO 13012 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 24444287ms at 2020-06-25 04:30:00.015
+2020-06-24 21:42:35,729 INFO 13012 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 8244272ms at 2020-06-25 00:00:00.001
+2020-06-24 21:42:35,729 INFO 13012 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8245271ms at 2020-06-25 00:00:01.000
+2020-06-24 21:42:35,279 INFO 14008 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-24 21:42:35,279 INFO 14008 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-24 21:42:35,279 INFO 14008 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-24 21:42:38,555 INFO 11608 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-24 21:42:38,555 INFO 11608 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-24 21:42:38,555 INFO 11608 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 11:53:49,962 INFO 7740 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 11:53:49,962 INFO 7740 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 11:53:49,962 INFO 7740 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 11:53:51,497 INFO 3344 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 59768509ms at 2020-06-26 04:30:00.006
+2020-06-25 11:53:51,497 INFO 3344 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 43568503ms at 2020-06-26 00:00:00.000
+2020-06-25 11:53:51,498 INFO 3344 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 43569503ms at 2020-06-26 00:00:01.001
+2020-06-25 11:53:51,391 INFO 6000 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 11:53:51,391 INFO 6000 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 11:53:51,391 INFO 6000 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 11:53:53,301 INFO 976 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 11:53:53,301 INFO 976 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 11:53:53,301 INFO 976 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 17:47:44,038 INFO 1220 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 17:47:44,038 INFO 1220 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 17:47:44,038 INFO 1220 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 17:47:45,871 INFO 9752 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38534134ms at 2020-06-26 04:30:00.005
+2020-06-25 17:47:45,871 INFO 9752 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 22334129ms at 2020-06-26 00:00:00.000
+2020-06-25 17:47:45,871 INFO 9752 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22335129ms at 2020-06-26 00:00:01.000
+2020-06-25 17:47:45,863 INFO 8552 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 17:47:45,863 INFO 8552 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 17:47:45,863 INFO 8552 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 17:47:48,029 INFO 6452 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 17:47:48,029 INFO 6452 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 17:47:48,029 INFO 6452 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 22:06:57,462 INFO 12212 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 22:06:57,462 INFO 12212 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 22:06:57,462 INFO 12212 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 22:06:58,946 INFO 6504 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 22981057ms at 2020-06-26 04:30:00.003
+2020-06-25 22:06:58,946 INFO 6504 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 6781054ms at 2020-06-26 00:00:00.000
+2020-06-25 22:06:58,946 INFO 6504 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 6782054ms at 2020-06-26 00:00:01.000
+2020-06-25 22:06:58,818 INFO 6228 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 22:06:58,818 INFO 6228 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 22:06:58,818 INFO 6228 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-25 22:07:00,629 INFO 10844 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-25 22:07:00,629 INFO 10844 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-25 22:07:00,629 INFO 10844 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-26 14:35:52,717 INFO 12552 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-26 14:35:52,717 INFO 12552 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-26 14:35:52,717 INFO 12552 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-26 14:35:54,246 INFO 5776 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50045758ms at 2020-06-27 04:30:00.004
+2020-06-26 14:35:54,246 INFO 5776 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 33845754ms at 2020-06-27 00:00:00.000
+2020-06-26 14:35:54,247 INFO 5776 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33846754ms at 2020-06-27 00:00:01.001
+2020-06-26 14:35:54,257 INFO 13872 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-26 14:35:54,257 INFO 13872 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-26 14:35:54,257 INFO 13872 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-26 14:35:56,062 INFO 12312 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-26 14:35:56,062 INFO 12312 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-26 14:35:56,062 INFO 12312 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-27 18:23:37,884 INFO 6932 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-27 18:23:37,884 INFO 6932 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-27 18:23:37,885 INFO 6932 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-27 18:23:39,622 INFO 14892 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36380383ms at 2020-06-28 04:30:00.005
+2020-06-27 18:23:39,623 INFO 14892 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 20180378ms at 2020-06-28 00:00:00.001
+2020-06-27 18:23:39,623 INFO 14892 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20181377ms at 2020-06-28 00:00:01.000
+2020-06-27 18:23:39,543 INFO 11144 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-27 18:23:39,543 INFO 11144 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-27 18:23:39,543 INFO 11144 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-27 18:23:41,731 INFO 10540 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-27 18:23:41,731 INFO 10540 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-27 18:23:41,731 INFO 10540 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-28 08:18:44,793 INFO 8940 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-28 08:18:44,793 INFO 8940 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-28 08:18:44,793 INFO 8940 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-28 08:18:46,204 INFO 6548 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72673799ms at 2020-06-29 04:30:00.003
+2020-06-28 08:18:46,204 INFO 6548 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56473796ms at 2020-06-29 00:00:00.000
+2020-06-28 08:18:46,205 INFO 6548 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56474795ms at 2020-06-29 00:00:01.000
+2020-06-28 08:18:46,134 INFO 7600 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-28 08:18:46,134 INFO 7600 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-28 08:18:46,134 INFO 7600 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-28 08:18:47,950 INFO 8648 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-28 08:18:47,950 INFO 8648 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-28 08:18:47,950 INFO 8648 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-28 21:06:07,562 INFO 14180 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-28 21:06:07,562 INFO 14180 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-28 21:06:07,562 INFO 14180 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-28 21:06:09,425 INFO 13704 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26630577ms at 2020-06-29 04:30:00.002
+2020-06-28 21:06:09,426 INFO 13704 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10430575ms at 2020-06-29 00:00:00.001
+2020-06-28 21:06:09,426 INFO 13704 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10431574ms at 2020-06-29 00:00:01.000
+2020-06-28 21:06:09,164 INFO 13628 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-28 21:06:09,164 INFO 13628 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-28 21:06:09,164 INFO 13628 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-28 21:06:11,209 INFO 13496 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-28 21:06:11,209 INFO 13496 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-28 21:06:11,209 INFO 13496 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-29 08:08:32,826 INFO 6672 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-29 08:08:32,826 INFO 6672 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-29 08:08:32,826 INFO 6672 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-29 08:08:34,309 INFO 11572 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-29 08:08:34,309 INFO 11572 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-29 08:08:34,309 INFO 11572 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-29 08:08:34,392 INFO 2060 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 73285611ms at 2020-06-30 04:30:00.003
+2020-06-29 08:08:34,393 INFO 2060 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 57085608ms at 2020-06-30 00:00:00.001
+2020-06-29 08:08:34,393 INFO 2060 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 57086607ms at 2020-06-30 00:00:01.000
+2020-06-29 08:08:36,036 INFO 10060 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-29 08:08:36,036 INFO 10060 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-29 08:08:36,036 INFO 10060 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-29 17:45:36,375 INFO 1536 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-29 17:45:36,375 INFO 1536 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-29 17:45:36,375 INFO 1536 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-29 17:45:39,733 INFO 14236 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-29 17:45:39,733 INFO 14236 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-29 17:45:39,733 INFO 14236 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-29 21:38:03,539 INFO 8372 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-29 21:38:03,539 INFO 8372 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-29 21:38:03,539 INFO 8372 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-29 21:38:05,135 INFO 11824 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 24714869ms at 2020-06-30 04:30:00.004
+2020-06-29 21:38:05,135 INFO 11824 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 8514865ms at 2020-06-30 00:00:00.000
+2020-06-29 21:38:05,136 INFO 11824 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8515865ms at 2020-06-30 00:00:01.000
+2020-06-29 21:38:05,063 INFO 1184 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-29 21:38:05,063 INFO 1184 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-29 21:38:05,063 INFO 1184 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-29 21:38:07,235 INFO 6140 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-29 21:38:07,236 INFO 6140 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-29 21:38:07,236 INFO 6140 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-30 08:42:03,485 INFO 5420 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-30 08:42:03,485 INFO 5420 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-30 08:42:03,485 INFO 5420 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-30 08:42:04,828 INFO 8260 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71275180ms at 2020-07-01 04:30:00.008
+2020-06-30 08:42:04,828 INFO 8260 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 55075172ms at 2020-07-01 00:00:00.000
+2020-06-30 08:42:04,829 INFO 8260 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55076172ms at 2020-07-01 00:00:01.001
+2020-06-30 08:42:04,858 INFO 5500 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-30 08:42:04,858 INFO 5500 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-30 08:42:04,858 INFO 5500 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-30 08:42:06,598 INFO 8448 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-30 08:42:06,598 INFO 8448 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-30 08:42:06,598 INFO 8448 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-30 22:16:19,482 INFO 6992 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-30 22:16:19,482 INFO 6992 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-30 22:16:19,482 INFO 6992 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-30 22:16:20,979 INFO 7004 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 22419024ms at 2020-07-01 04:30:00.003
+2020-06-30 22:16:20,979 INFO 7004 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 6219021ms at 2020-07-01 00:00:00.000
+2020-06-30 22:16:20,979 INFO 7004 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 6220021ms at 2020-07-01 00:00:01.000
+2020-06-30 22:16:20,993 INFO 1484 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-30 22:16:20,993 INFO 1484 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-30 22:16:20,993 INFO 1484 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-30 22:16:22,832 INFO 10444 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-30 22:16:22,832 INFO 10444 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-06-30 22:16:22,832 INFO 10444 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 08:17:29,017 INFO 12124 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 08:17:29,017 INFO 12124 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 08:17:29,017 INFO 12124 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 08:17:30,514 INFO 13112 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72749489ms at 2020-07-02 04:30:00.003
+2020-07-01 08:17:30,514 INFO 13112 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56549486ms at 2020-07-02 00:00:00.000
+2020-07-01 08:17:30,515 INFO 13112 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56550486ms at 2020-07-02 00:00:01.001
+2020-07-01 08:17:30,392 INFO 12252 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 08:17:30,392 INFO 12252 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 08:17:30,392 INFO 12252 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 08:17:32,217 INFO 11620 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 08:17:32,217 INFO 11620 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 08:17:32,217 INFO 11620 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 13:31:49,212 INFO 5288 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 13:31:49,212 INFO 5288 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 13:31:49,212 INFO 5288 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 13:31:50,686 INFO 1516 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53889316ms at 2020-07-02 04:30:00.002
+2020-07-01 13:31:50,687 INFO 1516 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 37689313ms at 2020-07-02 00:00:00.000
+2020-07-01 13:31:50,687 INFO 1516 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37690313ms at 2020-07-02 00:00:01.000
+2020-07-01 13:31:50,741 INFO 10160 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 13:31:50,741 INFO 10160 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 13:31:50,741 INFO 10160 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 13:31:52,637 INFO 9228 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 13:31:52,637 INFO 9228 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 13:31:52,637 INFO 9228 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 21:20:37,058 INFO 3988 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 21:20:37,058 INFO 3988 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 21:20:37,058 INFO 3988 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 21:20:38,501 INFO 2316 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25761501ms at 2020-07-02 04:30:00.002
+2020-07-01 21:20:38,502 INFO 2316 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 9561498ms at 2020-07-02 00:00:00.000
+2020-07-01 21:20:38,502 INFO 2316 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9562498ms at 2020-07-02 00:00:01.000
+2020-07-01 21:20:38,425 INFO 5044 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 21:20:38,425 INFO 5044 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 21:20:38,425 INFO 5044 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-01 21:20:40,191 INFO 12724 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-01 21:20:40,191 INFO 12724 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-01 21:20:40,191 INFO 12724 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-02 08:21:46,144 INFO 7836 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-02 08:21:46,144 INFO 7836 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-02 08:21:46,144 INFO 7836 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-02 08:21:47,593 INFO 9024 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72492410ms at 2020-07-03 04:30:00.003
+2020-07-02 08:21:47,593 INFO 9024 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56292407ms at 2020-07-03 00:00:00.000
+2020-07-02 08:21:47,594 INFO 9024 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56293407ms at 2020-07-03 00:00:01.001
+2020-07-02 08:21:47,548 INFO 13084 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-02 08:21:47,548 INFO 13084 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-02 08:21:47,548 INFO 13084 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-02 08:21:49,430 INFO 9704 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-02 08:21:49,430 INFO 9704 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-02 08:21:49,430 INFO 9704 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-02 20:28:55,532 INFO 12216 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-02 20:28:55,532 INFO 12216 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-02 20:28:55,532 INFO 12216 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-02 20:28:57,118 INFO 10684 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-02 20:28:57,118 INFO 10684 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-02 20:28:57,118 INFO 10684 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-02 20:28:58,167 INFO 12312 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 28861838ms at 2020-07-03 04:30:00.005
+2020-07-02 20:28:58,167 INFO 12312 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 12661833ms at 2020-07-03 00:00:00.000
+2020-07-02 20:28:58,167 INFO 12312 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 12662833ms at 2020-07-03 00:00:01.000
+2020-07-02 20:29:00,281 INFO 6640 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-02 20:29:00,281 INFO 6640 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-02 20:29:00,281 INFO 6640 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 08:16:53,044 INFO 7188 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 08:16:53,044 INFO 7188 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 08:16:53,044 INFO 7188 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 08:16:54,450 INFO 6600 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72785560ms at 2020-07-04 04:30:00.009
+2020-07-03 08:16:54,450 INFO 6600 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 56585550ms at 2020-07-04 00:00:00.000
+2020-07-03 08:16:54,451 INFO 6600 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56586550ms at 2020-07-04 00:00:01.001
+2020-07-03 08:16:54,304 INFO 6988 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 08:16:54,304 INFO 6988 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 08:16:54,304 INFO 6988 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 08:16:56,029 INFO 8852 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 08:16:56,029 INFO 8852 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 08:16:56,029 INFO 8852 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 14:19:39,686 INFO 12740 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 14:19:39,686 INFO 12740 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 14:19:39,686 INFO 12740 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 14:19:40,780 INFO 14268 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51019227ms at 2020-07-04 04:30:00.007
+2020-07-03 14:19:40,781 INFO 14268 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 34819220ms at 2020-07-04 00:00:00.001
+2020-07-03 14:19:40,781 INFO 14268 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34820219ms at 2020-07-04 00:00:01.000
+2020-07-03 14:19:41,127 INFO 5916 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 14:19:41,127 INFO 5916 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 14:19:41,127 INFO 5916 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 14:19:42,928 INFO 6544 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 14:19:42,928 INFO 6544 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 14:19:42,928 INFO 6544 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 21:00:39,444 INFO 7940 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 21:00:39,444 INFO 7940 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 21:00:39,444 INFO 7940 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 21:00:41,076 INFO 12988 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26958926ms at 2020-07-04 04:30:00.002
+2020-07-03 21:00:41,076 INFO 12988 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10758924ms at 2020-07-04 00:00:00.000
+2020-07-03 21:00:41,077 INFO 12988 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10759924ms at 2020-07-04 00:00:01.001
+2020-07-03 21:00:41,037 INFO 1744 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 21:00:41,037 INFO 1744 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 21:00:41,037 INFO 1744 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-03 21:00:43,064 INFO 4580 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-03 21:00:43,064 INFO 4580 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-07-03 21:00:43,064 INFO 4580 [egg-schedule]: register schedule E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-04 00:00:00,014 INFO 12988 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 86399992ms at 2020-07-05 00:00:00.005
+2020-07-04 00:00:00,028 INFO 4580 [Job#1593792000005179061076470991] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js executing by app
+2020-07-04 00:00:00,040 INFO 4580 [Job#1593792000005179061076470991] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js execute succeed, used 9ms
+2020-07-04 00:00:01,002 INFO 4580 [Job#1593792001001179071035491001] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-07-04 00:00:01,012 INFO 4580 [Job#1593792001001179071035491001] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 10ms
+2020-07-04 00:00:01,004 INFO 12988 [Timer] E:\项目\xiangmu2\server\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399999ms at 2020-07-05 00:00:01.003
