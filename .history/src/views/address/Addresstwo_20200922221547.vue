@@ -1,11 +1,11 @@
-<!-- 添加地址 -->
+<!-- 修改地址 -->
 <template>
  <div>
   <div class="d-f m-t-10 m-l-10">
   <div @click="clic">
   <van-icon name="arrow-left" color="#07c160" size="30px"/>
   </div>
-  <div class="f-s-18 address">添加地址</div>
+  <div class="f-s-18 address">修改地址</div>
   </div>
   <div>
 <van-address-edit
@@ -14,6 +14,7 @@
   show-delete
   show-set-default
   show-search-result
+   :address-info='addressInfo'
   :search-result="searchResult"
   :area-columns-placeholder="['请选择', '请选择', '请选择']"
   @save="onSave"
@@ -35,7 +36,7 @@ import area from '../../../server/可能要用的js文件/area'
    data () {
      return {
       searchResult: [],
-     
+     addressInfo:{},
       area:area
    }
    },
@@ -46,8 +47,8 @@ import area from '../../../server/可能要用的js文件/area'
      clic(){
        this.$router.push('/list')
      },
-      onSave(content) {
-        console.log(content);
+     onSave(content) {
+       console.log(content);
         this.content = this.content
         this.$api.address({
        
@@ -67,13 +68,18 @@ import area from '../../../server/可能要用的js文件/area'
        }),
        this.$router.push('/list')
     },
-    onDelete() {
-      this.$router.push('/list')
+    onDelete(id) {     
+      this.$api.deleteAddress(id).then(res=>{
+        this.$router.push('/list')
+         console.log(res);  
+      }).catch(err=>{
+          console.log(err);
+      })
     },
     
    },
    mounted() {
-      
+       this.addressInfo=JSON.parse(this.$route.query.obj)
    },
    watch: {
 
